@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZigZag_Ball", "ZigZag_Ball.vcxproj", "{0742B5C2-5D7F-4516-873F-6DF6ABBF37FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0742B5C2-5D7F-4516-873F-6DF6ABBF37FB}.Debug|x64.ActiveCfg = Debug|x64
+		{0742B5C2-5D7F-4516-873F-6DF6ABBF37FB}.Debug|x64.Build.0 = Debug|x64
+		{0742B5C2-5D7F-4516-873F-6DF6ABBF37FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{0742B5C2-5D7F-4516-873F-6DF6ABBF37FB}.Debug|x86.Build.0 = Debug|Win32
+		{0742B5C2-5D7F-4516-873F-6DF6ABBF37FB}.Release|x64.ActiveCfg = Release|x64
+		{0742B5C2-5D7F-4516-873F-6DF6ABBF37FB}.Release|x64.Build.0 = Release|x64
+		{0742B5C2-5D7F-4516-873F-6DF6ABBF37FB}.Release|x86.ActiveCfg = Release|Win32
+		{0742B5C2-5D7F-4516-873F-6DF6ABBF37FB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFD4427A-B177-4EE2-99C9-3018E7777C45}
+	EndGlobalSection
+EndGlobal

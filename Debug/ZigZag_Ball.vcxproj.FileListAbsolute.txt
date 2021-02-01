@@ -1,0 +1,2 @@
+C:\Users\ADMIN\source\repos\ZigZag_Ball\Debug\ZigZag_Ball.exe
+C:\Users\ADMIN\source\repos\ZigZag_Ball\Debug\ZigZag_Ball.pdb
